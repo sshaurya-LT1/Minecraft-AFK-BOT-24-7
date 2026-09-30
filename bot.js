@@ -11,11 +11,11 @@ const HOST = 'bananasmp.net';
 const PORT = 25565;
 
 const ACCOUNTS = [
-  { username: 'shaurya3301',     password: 'daksh1' },
-  { username: 'shaurya3301_ALT', password: 'daksh1' },
-  { username: 'shaurya3301_afk', password: 'daksh1' },
-  { username: 'Wennu_ALT',       password: 'daksh1' },
-  { username: 'Wennu_afk',       password: 'daksh1' },
+  { username: 'UserName_1',      password: 'password' },
+  { username: 'UserName_2',      password: 'password' },
+  { username: 'UserName_3',      password: 'password' },
+  { username: 'UserName_4',      password: 'password' },
+  { username: 'UserName_5',      password: 'password' },
 ];
 
 const START_GAP_MS = 15000;        // gap between account joins
