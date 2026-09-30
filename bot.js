@@ -7,7 +7,7 @@
 
 const mineflayer = require('mineflayer');
 
-const HOST = 'bananasmp.net';
+const HOST = 'play.servername.com';
 const PORT = 25565;
 
 const ACCOUNTS = [
